@@ -1,0 +1,79 @@
+﻿/*div.middle_maindiv{
+    height:1000px;
+    
+    margin-top:20px;
+    margin:0 auto;
+    background-color:white;
+    width:70%;
+}*/
+
+div.contact_information{
+    height:350px;
+    background-color:white;
+    width:70%;
+    margin:auto;
+    margin-top:20px;
+}
+div.Email{
+    width:100%;
+    margin:auto;
+    background-color:white;
+    height:50px;
+}
+div.Email_Edit{
+    width:100%;
+    margin:auto;
+    background-color:white;
+    height:50px;
+}
+div.Address{
+    width:100%;
+    margin:auto;
+    background-color:white;
+    height:50px;
+}
+div.Address_Edit{
+    width:100%;
+    margin:auto;
+    background-color:white;
+    height:50px;
+}
+div.Phone{
+    width:100%;
+    margin:auto;
+    background-color:white;
+    height:50px;
+}
+div.Phone_Edit{
+    width:100%;
+    margin:auto;
+    background-color:white;
+    height:50px;
+}
+
+div.Goods_Manage{
+    height:290px;
+    background-color:white;
+    width:70%;
+    margin:auto;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+
+div.insert_goods{
+    height:180px;
+    width:180px;
+    background-color:white;
+    border:#f0f0f0 solid 2px;
+    margin-left:30px;
+    float:left;
+}
+div.add_goods_description{
+    height:100px;
+    width:350px;
+    background-color:white;
+    border:#f0f0f0 solid 2px;
+    margin-left:200px;
+    float:left;
+}
+
